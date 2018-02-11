@@ -1,6 +1,6 @@
 # Communicator
 
-A library written in 4 popular programming languages to transfer files, texts, numbers or nested objects and arrays containing them, as message between two applications. Either on the same or different programming language, operating system or machine. 
+A library written in Node.js, C#, Python and Java to transfer files, texts, numbers or nested objects and arrays containing them, as message between two applications. Either on the same or different programming language, operating system or machine. 
 
 Written with a custom protocol built on top of TCP sockets. 
 
