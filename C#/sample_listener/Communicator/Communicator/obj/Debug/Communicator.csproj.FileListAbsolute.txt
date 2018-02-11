@@ -1,0 +1,7 @@
+F:\Communicator\C#\sample_listener\Communicator\Communicator\obj\Debug\Communicator.csprojResolveAssemblyReference.cache
+F:\Communicator\C#\sample_listener\Communicator\Communicator\obj\Debug\Communicator.csproj.CoreCompileInputs.cache
+F:\Communicator\C#\sample_listener\Communicator\Communicator\bin\Debug\Communicator.exe.config
+F:\Communicator\C#\sample_listener\Communicator\Communicator\bin\Debug\Communicator.exe
+F:\Communicator\C#\sample_listener\Communicator\Communicator\bin\Debug\Communicator.pdb
+F:\Communicator\C#\sample_listener\Communicator\Communicator\obj\Debug\Communicator.exe
+F:\Communicator\C#\sample_listener\Communicator\Communicator\obj\Debug\Communicator.pdb
